@@ -1,3 +1,3 @@
 def mod(a,b):
   return a%b
-print(mod(7,4))
+print(mod(7,5))
